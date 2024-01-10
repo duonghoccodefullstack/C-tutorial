@@ -58,3 +58,27 @@
 
 //     return 0;
 // }
+
+
+// class variable
+
+// #include <iostream>
+
+// using namespace std;
+
+// class connguoi
+// {
+// public:
+//     string mat;
+//     string mui;
+//     int tuoi;
+// };
+// int main()
+// {
+//     connguoi obj1;
+//     obj1.mat = "to";
+//     obj1.mui = "dai";
+//     obj1.tuoi = 18;
+//     cout << obj1.mat << obj1.mui << obj1.tuoi;
+//     return 0;
+// }
